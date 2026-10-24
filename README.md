@@ -20,6 +20,15 @@ This project analyzes bank loan data using Microsoft Power BI to understand loan
 - **Trend Analysis:** Year-wise loan amount trends.
 - **Loan Status Analysis:** Active, fully paid, charged-off or other loan statuses, as available in the dataset.
 - **Geographical Analysis:** State-wise loan amount.
+  # Bank Loan Dashboard
+
+## Dashboard Preview
+
+![Bank Loan Dashboard](bank%20loan%20dashboard%20power%20bi.png)
+
+## Power BI Dashboard File
+
+[Click here to download the Power BI Dashboard](Bank%20loan%20Dashboard.pbix)
 
 ## Tools Used
 - Microsoft Power BI
@@ -36,9 +45,6 @@ This project analyzes bank loan data using Microsoft Power BI to understand loan
 - Home loans represent the largest purpose category in the displayed chart.
 - The year-wise trend reaches its highest displayed value in FY 2019.
 
-## Files Included
-- `Bank Loan Dashboard.pbix` — Power BI dashboard file.
-- `bank loan dashboard power bi.png` — Dashboard preview.
 
 ## Author
 M Mounika
