@@ -20,8 +20,13 @@ This project analyzes bank loan data using Microsoft Power BI to understand loan
 - **Trend Analysis:** Year-wise loan amount trends.
 - **Loan Status Analysis:** Active, fully paid, charged-off or other loan statuses, as available in the dataset.
 - **Geographical Analysis:** State-wise loan amount.
-  # Bank Loan Dashboard
 
+  ## Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+  
 ## Dashboard Preview
 
 ![Bank Loan Dashboard](bank%20loan%20dashboard%20power%20bi.png)
@@ -29,12 +34,6 @@ This project analyzes bank loan data using Microsoft Power BI to understand loan
 ## Power BI Dashboard File
 
 [Click here to download the Power BI Dashboard](Bank%20loan%20Dashboard.pbix)
-
-## Tools Used
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Visualization
 
 ## Key Insights
 - The dashboard reports a total loan amount of 751M.
