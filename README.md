@@ -33,7 +33,7 @@ This project analyzes bank loan data using Microsoft Power BI to understand loan
 
 ## Power BI Dashboard File
 
-[Click here to download the Power BI Dashboard](Bank%20loan%20Dashboard.pbix)
+https://drive.google.com/file/d/1pePVJ0EL-8nMQwoUiuD0gADCuBLZdKqx/view?usp=sharing
 
 ## Key Insights
 - The dashboard reports a total loan amount of 751M.
